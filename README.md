@@ -37,3 +37,69 @@ If you do not have a 501(c)(3) confirmed PayPal account, donations can still be 
     ```
     [lg-donate-monthly email=mypaypalemail@myemail.com name='My Charitable Fund']
     ```
+
+##CSS Styles & Customization
+To style the form and fields in this plugin you can use the following css classes to do so:
+
+You can place these css class styles in your theme's style.css file or in a style tag at the top of your html.
+
+```
+/* form style */
+.lg-donate-form{
+    /* your styles go below here */
+    
+} 
+```
+
+Specific form styles for each donation type: once, monthly, and yearly
+```
+.lg-donate-once{
+    /* your styles go below here */
+    
+}
+
+.lg-donate-monthly{
+    /* your styles go below here */
+    
+}
+
+.lg-donate-yearly{
+    /* your styles go below here */
+    
+}
+```
+Styles for title, amount, and donate button
+```
+.lg-donate-title{
+    /* your styles go below here */
+    
+}
+
+.lg-donate-amount{
+    /* your styles go below here */
+    
+}
+
+.lg-donate-button{
+    /* your styles go below here */
+    
+}
+```
+
+Specific styles for each donation type: once, monthly, and yearly
+```
+.lg-donate-button-once{
+    /* your styles go below here */
+    
+}
+
+.lg-donate-button-monthly{
+    /* your styles go below here */
+    
+}
+
+.lg-donate-button-yearly{
+    /* your styles go below here */
+    
+}
+```

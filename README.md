@@ -1,5 +1,5 @@
 # Lesser Good Paypal Donation (with Recurring)
-adds paypal donation one-time and recurring shortcodes for WordPress
+Adds PayPal donation WordPress shortcodes (one-time and recurring)
 
 ##Important Note:
 Paypal Account required to use this plugin (and have it work correctly). 
@@ -86,7 +86,7 @@ Styles for title, amount, and donate button
 }
 ```
 
-Specific styles for each donation type: once, monthly, and yearly
+Specific button styles for each donation type: once, monthly, and yearly
 ```
 .lg-donate-button-once{
     /* your styles go below here */

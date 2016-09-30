@@ -43,8 +43,8 @@ To style the form and fields in this plugin you can use the following css classe
 
 You can place these css class styles in your theme's style.css file or in a style tag at the top of your html.
 
+Form style for all donation types
 ```
-/* form style */
 .lg-donate-form{
     /* your styles go below here */
     
